@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
