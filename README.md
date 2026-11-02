@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -104,8 +107,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bdarshan-codes/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
